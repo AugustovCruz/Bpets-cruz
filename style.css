@@ -1,0 +1,91 @@
+
+/*index */
+.carousel-padre {
+    width: 70vw;
+    margin:30px auto;
+}
+.color-nav {
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);;
+}
+.navbar a{
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+.row {
+    justify-content: space-evenly;
+    width: 100%;
+    gap:15px;
+    
+}
+.cards-index {
+    padding: 20px 0px;
+}
+.color-boton {
+    background-color: #30cfd0;
+}
+/*puppys-cards*/
+.cards-producto {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: 40px auto;
+    padding:30px;
+    width: 90%;
+}
+/*puppys-alimentos*/
+.table-layout {
+    margin: 20px 100px;
+}
+.food-dog {
+    text-align: center;
+}
+.food-dog img {
+    width: 50%;
+}
+.main-food {
+    display: flex;
+    flex-direction: column;
+    min-height: 85vh;
+    align-content: center;
+}
+/*contacto*/
+.form {
+    margin: 65px 100px;
+}
+.border-form {
+    justify-content: start;
+    border: 2px ridge rgba(0, 0, 0, 0.521);
+}
+/*nosotros*/
+.us {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 75vh;
+    justify-content: center;
+}
+/*footer*/
+footer {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+    color: white;
+    padding: 0px 20px;
+}
+.redes {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.redes img {
+    justify-content: space-between;
+}
+.bar {
+        display: flex;
+        font-size: .75rem;
+        background-color: #e9ecef;
+    }
+
+
